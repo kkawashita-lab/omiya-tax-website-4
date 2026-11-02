@@ -187,3 +187,4 @@ a{color:inherit;text-decoration:none}button,input,select,textarea{font:inherit}a
 
 @media(min-width:761px){.hero .portrait-caption{top:auto;bottom:62px}}
 @media(max-width:1050px) and (min-width:761px){.hero .portrait-caption{top:auto;bottom:40px}}
+.contact b{line-height:0}.contact b svg{display:block;width:20px;height:20px}
