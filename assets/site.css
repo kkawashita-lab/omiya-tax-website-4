@@ -185,5 +185,5 @@ a{color:inherit;text-decoration:none}button,input,select,textarea{font:inherit}a
 @media(max-width:1050px) and (min-width:761px){.hero .reason-band{bottom:115px}.hero .portrait-caption{bottom:36px}}
 @media(max-width:760px){.hero .reason-band{margin-top:45px}.hero .portrait-caption{top:349px}}
 
-@media(min-width:761px){.hero .portrait-caption{top:47%;bottom:auto}}
-@media(max-width:1050px) and (min-width:761px){.hero .portrait-caption{top:45%;bottom:auto}}
+@media(min-width:761px){.hero .portrait-caption{top:auto;bottom:62px}}
+@media(max-width:1050px) and (min-width:761px){.hero .portrait-caption{top:auto;bottom:40px}}
